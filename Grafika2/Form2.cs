@@ -42,5 +42,11 @@ namespace Grafika2
             Form4 nw = new Form4();
             nw.ShowDialog();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Form5 nw = new Form5();
+            nw.ShowDialog();
+        }
     }
 }
